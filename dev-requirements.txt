@@ -1,0 +1,7 @@
+pycodestyle
+pydocstyle
+pyflakes
+radon
+pylint
+pylama
+mypy
