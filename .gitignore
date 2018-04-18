@@ -1,0 +1,5 @@
+# test databases
+db/
+
+# node
+node_modules/
