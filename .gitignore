@@ -8,3 +8,6 @@ node_modules/
 # python
 *.pyc
 __pycache__
+
+# vscode
+.vscode
