@@ -4,10 +4,6 @@
     "config": {
         "dbname": "data.db"
     },
-    "scripts": {
-        "db-build": "cross-env-shell sqlite3 db/$npm_package_config_dbname < src/db/auth.sql",
-        "db-drop": "cross-env-shell node scripts/db_drop.js db/$npm_package_config_dbname"
-    },
     "dependencies": {},
     "devDependencies": {
         "fs-extra": "^5.0.0",
