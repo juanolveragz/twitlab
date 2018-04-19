@@ -1,5 +1,5 @@
 from twitlab import core
 
-app = core.run(__name__)
+app, engine = core.run(__name__)
 
 from twitlab import routes
